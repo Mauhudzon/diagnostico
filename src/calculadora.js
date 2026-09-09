@@ -10,4 +10,4 @@
 
     const valores = [10, 20, 30, 40];
 
-console.log("Promedio:", calcularPromedio(valores));
+console.log("El Promedio del alumno es:", calcularPromedio(valores));

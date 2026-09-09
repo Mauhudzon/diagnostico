@@ -7,3 +7,4 @@
 7. git commit -m "Primer commit"
 8. git push -u origin main
 9. Git log (para ver historial)
+10. git checkout -b feature calculadora
