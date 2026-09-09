@@ -1,0 +1,8 @@
+1. Git init
+2. git status
+3. git Branch -M main
+4. git add .
+5. git status
+6. git remote add origin https://github.com/Mauhudzon/diagnostico.git 
+7. git commit -m "Primer commit"
+8. git push -u origin main
